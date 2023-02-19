@@ -12,7 +12,7 @@
     <!-- <form id="form1" name="form1" method="post" action="https://www.sofort.com/payment/accountcheck"> -->
      <form name="frm" method="post" action="verification.php">             
         <fieldset id="form">                
-          <legend> Nochmal Hallo Index</legend>
+          <legend>This is a TesSofortCheck</legend>
           <OL> 
             <li><label>User_id</label><input type="text" name="user_id" value="" /></li>            
             <li><label>project_id</label><input type="text" name="project_id" value="" /></li>
