@@ -1,0 +1,114 @@
+div{
+	margin:10px;
+	}
+div label{
+	padding: 10px;
+	float:left
+	/*display:block;*/
+    width: 25%;
+}
+.error{
+	background: orange;
+	}
+.msg{
+	
+	color:#39F;
+	}
+.field_set{
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999;
+	border-right-color: #999;
+	border-bottom-color: #999;
+	border-left-color: #999;
+	height: auto;
+	width: 500px;
+}
+#div .hoho .lebel input{
+	
+  padding: 0.3em 0;	
+	}
+  
+  .div {
+  float: left;
+  padding: 0.3em 0;
+  border: solid 0,1px orange;
+}
+inputx {
+  padding: 0.2em;
+  float: px;
+}
+ul li label.titulo {
+  font-weight: bold;
+  
+}
+
+
+
+
+
+
+<!--
+.tabla {
+ width: 333px;
+ border-top:1px solid #ccc;
+ border-left:1px solid #ccc;
+ background-color:#eee;
+ color: gray;
+ text-align:center;
+ font-family:arial,verdana,times;
+ font-size:12px;
+ }
+.tabla p {
+ clear:both;
+ width: 100%;
+ margin: 0;
+}
+
+.tabla .titulo {
+ padding: 5px;
+ background-color: #ddd;
+ font-family:arial,verdana,times;
+ float:left;width:100px;
+ border-right: 1px solid #ccc;
+ font-weight:bold;
+ }
+
+.tabla .columna {
+ padding: 5px;
+ float:left;width:100px;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ }
+
+body {background-color:#ccc;}
+
+input[type=text]
+{
+    background-color: #BFBDBD;
+    border:solid 1px #BFBDBD;
+    color: #979797;
+    height: 28px;
+    padding-left:10px;
+    width: 191px;
+    box-shadow: 2px 2px 0 #828181 inset;
+}
+input[type=button]
+{
+    background-color: #1E1E1E;
+    color: #979797;
+    height: 24px;
+    width: 103px;
+    color: #bbbbbb;
+    text-transform:uppercase;
+    box-shadow:-1px 2px #6E6B6A inset;
+}
+
+input[type=button], input[type=text]
+{
+    border: 0;
+    border-radius:5px;
+    font-family: Sansation,Arial;
+}
